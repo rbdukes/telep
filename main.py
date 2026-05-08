@@ -46,7 +46,13 @@ SOURCES = [
     "https://raw.githubusercontent.com/seriyps/mtproto_proxy/master/proxies.txt",
     "https://raw.githubusercontent.com/MTProto/MTProtoProxy/master/proxies/mtproto.txt",
     "https://raw.githubusercontent.com/mtProtoProxy/MTProxy-official/master/proxies.txt",
-    # "https://api.mtproxy.org/v1/mtproto",  # закомментировано – API может быть нестабильным
+
+    # ✅ Уникальные, которые НЕ дублируют предыдущие (в твоём списке выше, но не в SOURCES)
+    "https://free-proxy-list.net/",
+    "https://www.us-proxy.org/",
+    "https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers",
+    "https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https",
+    "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all",
 ]
 
 TIMEOUT     = 2.0
