@@ -123,3 +123,9 @@ DNS_AVAILABILITY_SERVERS:
   - ["https://dns.sb/dns-query",                          "DNS.SB",          "doh_wire"]
   - ["https://doh.dns.sb/dns-query",                      "DNS.SB (alt)",    "doh_wire"]
   - ["https://doh.libredns.gr/dns-query",                 "LibreDNS",        "doh_wire"]
+
+# ==========================================
+# Прокси источники для сбора MTProto прокси
+# ==========================================
+sources:
+  - https://raw.githubusercontent.com/FreeFolksOn/abc-configs-free-vpn-proxy-list/main/README.md
