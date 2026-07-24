@@ -1,45 +1,45 @@
-Verification log – 2026-07-24 14:50:58 UTC
-Execution time: 44.1s
+Verification log – 2026-07-24 16:33:41 UTC
+Execution time: 39.8s
 Total proxies tested: 32
 Working proxies found: 3
 ------------------------------------------------------------
 Timestamp                   Host:Port                      Status Ping     Region
 ------------------------------------------------------------
-2026-07-24T14:50:56.594263  87.248.132.2:443               FAIL   -        eu
-2026-07-24T14:50:56.600939  new.sitemcinet.co.uk:443       FAIL   -        eu
-2026-07-24T14:50:56.608551  sitemcinet.co.uk:443           FAIL   -        eu
-2026-07-24T14:50:56.734638  87.248.132.38:85               FAIL   -        eu
-2026-07-24T14:50:56.738992  87.248.134.172:443             FAIL   -        eu
-2026-07-24T14:50:56.739478  87.248.134.204:443             FAIL   -        eu
-2026-07-24T14:50:56.740182  45.135.194.28:37               FAIL   -        eu
-2026-07-24T14:50:56.740848  93.183.88.188:443              OK     0.149s   eu
-2026-07-24T14:50:56.742326  87.248.132.99:8443             FAIL   -        eu
-2026-07-24T14:50:56.743746  Q4.opt-meli.info:443           FAIL   -        eu
-2026-07-24T14:50:56.744005  87.248.132.34:70               FAIL   -        eu
-2026-07-24T14:50:56.744146  3.masi.masi.zban-mas.info:8888 FAIL   -        eu
-2026-07-24T14:50:56.744397  Masi.zban-df.info:8888         FAIL   -        eu
-2026-07-24T14:50:56.744998  23.88.51.230:443               OK     0.156s   eu
-2026-07-24T14:50:56.747945  World-press.Online-shop.speeker-voice.avadox-zhoan.info:144 FAIL   -        eu
-2026-07-24T14:50:56.748252  Team.hafthashtgswreqetdgsrwrpi-esoiiisolfnwfsksjvwu-urishklfduiwoehv.info.:6773 FAIL   -        eu
-2026-07-24T14:50:56.820040  app.aftabneta2.ir:85           FAIL   -        eu
-2026-07-24T14:50:56.930053  best-ruter.eyvazi-master.ir:9741 FAIL   -        eu
-2026-07-24T14:50:56.958785  Fuck-War.harcibasheokeye.ir:110 FAIL   -        eu
-2026-07-24T14:50:57.738173  syntax.ddnscdn.sbs.:443        OK     1.145s   eu
-2026-07-24T14:50:58.591148  89.251.10.2:7443               FAIL   -        eu
-2026-07-24T14:50:58.591177  152.232.8.182:443              FAIL   -        eu
-2026-07-24T14:50:58.592195  212.34.135.78:443              FAIL   -        eu
-2026-07-24T14:50:58.593113  163.5.31.10:8443               FAIL   -        eu
-2026-07-24T14:50:58.593768  146.103.104.26:443             FAIL   -        eu
-2026-07-24T14:50:58.594150  176.65.135.65:23               FAIL   -        eu
-2026-07-24T14:50:58.660720  iran.zibayi.shop.:888          FAIL   -        eu
-2026-07-24T14:50:58.664690  www.lastingg.baby.:8888        FAIL   -        eu
-2026-07-24T14:50:58.668141  www.beastmode.icu.:8888        FAIL   -        eu
-2026-07-24T14:50:58.693078  www.myssscript.beauty.:8888    FAIL   -        eu
-2026-07-24T14:50:58.805668  Komatso-Japan.www.google.com.ganool-com.info:300 FAIL   -        eu
-2026-07-24T14:50:58.867252  dd.tgproxy.today:8080          FAIL   -        eu
+2026-07-24T16:33:38.687783  87.248.132.2:443               FAIL   -        eu
+2026-07-24T16:33:38.692820  Team.hafthashtgswreqetdgsrwrpi-esoiiisolfnwfsksjvwu-urishklfduiwoehv.info.:6773 FAIL   -        eu
+2026-07-24T16:33:38.694412  new.sitemcinet.co.uk:443       FAIL   -        eu
+2026-07-24T16:33:38.698362  sitemcinet.co.uk:443           FAIL   -        eu
+2026-07-24T16:33:38.701282  3.masi.masi.zban-mas.info:8888 FAIL   -        eu
+2026-07-24T16:33:38.768972  93.183.88.188:443              OK     0.087s   eu
+2026-07-24T16:33:38.769173  87.248.132.38:85               FAIL   -        eu
+2026-07-24T16:33:38.770110  87.248.132.34:70               FAIL   -        eu
+2026-07-24T16:33:38.773475  87.248.132.99:8443             FAIL   -        eu
+2026-07-24T16:33:38.775314  syntax.ddnscdn.sbs.:443        OK     0.09s    eu
+2026-07-24T16:33:38.778431  45.135.194.28:37               FAIL   -        eu
+2026-07-24T16:33:38.781573  23.88.51.230:443               OK     0.097s   eu
+2026-07-24T16:33:38.804347  Q4.opt-meli.info:443           FAIL   -        eu
+2026-07-24T16:33:38.806641  Masi.zban-df.info:8888         FAIL   -        eu
+2026-07-24T16:33:38.852189  app.aftabneta2.ir:85           FAIL   -        eu
+2026-07-24T16:33:38.861383  Fuck-War.harcibasheokeye.ir:110 FAIL   -        eu
+2026-07-24T16:33:38.870810  best-ruter.eyvazi-master.ir:9741 FAIL   -        eu
+2026-07-24T16:33:38.886576  87.248.134.204:443             FAIL   -        eu
+2026-07-24T16:33:38.889146  87.248.134.172:443             FAIL   -        eu
+2026-07-24T16:33:38.908361  World-press.Online-shop.speeker-voice.avadox-zhoan.info:144 FAIL   -        eu
+2026-07-24T16:33:40.686164  212.34.135.78:443              FAIL   -        eu
+2026-07-24T16:33:40.686213  89.251.10.2:7443               FAIL   -        eu
+2026-07-24T16:33:40.686352  176.65.135.65:23               FAIL   -        eu
+2026-07-24T16:33:40.687341  146.103.104.26:443             FAIL   -        eu
+2026-07-24T16:33:40.687430  152.232.8.182:443              FAIL   -        eu
+2026-07-24T16:33:40.689333  163.5.31.10:8443               FAIL   -        eu
+2026-07-24T16:33:40.706050  www.myssscript.beauty.:8888    FAIL   -        eu
+2026-07-24T16:33:40.706585  www.beastmode.icu.:8888        FAIL   -        eu
+2026-07-24T16:33:40.712309  iran.zibayi.shop.:888          FAIL   -        eu
+2026-07-24T16:33:40.914695  www.lastingg.baby.:8888        FAIL   -        eu
+2026-07-24T16:33:40.918432  Komatso-Japan.www.google.com.ganool-com.info:300 FAIL   -        eu
+2026-07-24T16:33:41.077884  dd.tgproxy.today:8080          FAIL   -        eu
 ------------------------------------------------------------
 
 Top 20 fastest proxies:
-  93.183.88.188:443 | ping=0.149s | eu | }>r@c'media.steampowered.com
-  23.88.51.230:443 | ping=0.156s | eu | 
-  syntax.ddnscdn.sbs.:443 | ping=1.145s | eu | 
+  93.183.88.188:443 | ping=0.087s | eu | }>r@c'media.steampowered.com
+  syntax.ddnscdn.sbs.:443 | ping=0.09s | eu | 
+  23.88.51.230:443 | ping=0.097s | eu | 
