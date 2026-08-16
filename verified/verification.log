@@ -1,238 +1,238 @@
-Verification log – 2026-08-16 15:16:38 UTC
-Execution time: 51.7s
+Verification log – 2026-08-16 16:18:02 UTC
+Execution time: 37.7s
 Total proxies tested: 208
-Working proxies found: 182
+Working proxies found: 183
 ------------------------------------------------------------
 Timestamp                   Host:Port                      Status Ping     Region
 ------------------------------------------------------------
-2026-08-16T15:16:34.337346  172.65.105.80:25565            OK     0.009s   eu
-2026-08-16T15:16:34.337366  forwar%D8%ACd-gree.server-space52.info:443 FAIL   -        eu
-2026-08-16T15:16:34.337481  172.65.122.51:25565            OK     0.01s    eu
-2026-08-16T15:16:34.351791  fresh.t-proxy.info.:25565      OK     0.029s   eu
-2026-08-16T15:16:34.393210  198.199.120.58:443             OK     0.069s   eu
-2026-08-16T15:16:34.399561  iran.vanitydomain.co.uk.:8443  FAIL   -        eu
-2026-08-16T15:16:34.466389  194.120.230.37:443             OK     0.139s   eu
-2026-08-16T15:16:34.477532  cloud.click-master.co.uk:8443  OK     0.156s   eu
-2026-08-16T15:16:34.482983  noron.talebi.co.uk:2096        OK     0.154s   eu
-2026-08-16T15:16:34.483822  rain.lavazemi2.co.uk:2053      OK     0.153s   eu
-2026-08-16T15:16:34.483836  195.254.165.252:25565          FAIL   -        eu
-2026-08-16T15:16:34.484204  star.talebi.co.uk:2096         OK     0.161s   eu
-2026-08-16T15:16:34.484330  box.lavazemi5.co.uk:2053       OK     0.164s   eu
-2026-08-16T15:16:34.485199  gallery.talebi.co.uk:2096      OK     0.16s    eu
-2026-08-16T15:16:34.485368  udymau.server-space52.info:443 OK     0.159s   eu
-2026-08-16T15:16:34.486141  sub.iran-tehran.co.uk.:443     OK     0.15s    eu
-2026-08-16T15:16:34.486308  webhook.what-ever.co.uk:443    OK     0.164s   eu
-2026-08-16T15:16:34.487158  sub.iran-tehran.co.uk:443      OK     0.165s   eu
-2026-08-16T15:16:34.487366  book.malavanann.co.uk:2096     OK     0.162s   eu
-2026-08-16T15:16:34.487375  noone.lavazemi1.co.uk:2083     OK     0.162s   eu
-2026-08-16T15:16:34.488343  idiot.foltmeingop.co.uk:8880   OK     0.159s   eu
-2026-08-16T15:16:34.488850  gold.lavazemi4.co.uk:2096      OK     0.161s   eu
-2026-08-16T15:16:34.491890  Kingdom-persia.ir.hey-gardash.info.:1080 OK     0.157s   eu
-2026-08-16T15:16:34.492064  bg69h.ir.meli-n13.info:8443    OK     0.172s   eu
-2026-08-16T15:16:34.492421  qadim.zhigool.co.uk:22         OK     0.167s   eu
-2026-08-16T15:16:34.493825  webhook.what-ever.co.uk.:443   OK     0.166s   eu
-2026-08-16T15:16:34.494073  god-mode-on.peachsoft.co.uk.:443 OK     0.165s   eu
-2026-08-16T15:16:34.495850  chai.mikham.co.uk:8443         OK     0.16s    eu
-2026-08-16T15:16:34.496013  65.108.126.199:443             OK     0.163s   eu
-2026-08-16T15:16:34.496252  sherek.mashgh.co.uk:144        OK     0.163s   eu
-2026-08-16T15:16:34.496748  for--you.server2-5mk.info:443  OK     0.163s   eu
-2026-08-16T15:16:34.497091  95.217.193.223:443             OK     0.162s   eu
-2026-08-16T15:16:34.497819  kjjm7p.ir.ir.ir.meli-n12.info:8443 OK     0.172s   eu
-2026-08-16T15:16:34.499525  ftp.jinxandjack.co.uk.:443     OK     0.177s   eu
-2026-08-16T15:16:34.499755  65.21.227.204:443              OK     0.167s   eu
-2026-08-16T15:16:34.500542  app.what-ever.co.uk.:443       OK     0.176s   eu
-2026-08-16T15:16:34.502212  flux.lavazemi5.co.uk:2096      OK     0.172s   eu
-2026-08-16T15:16:34.502384  dokhtar.kocholo.co.uk.:443     OK     0.175s   eu
-2026-08-16T15:16:34.502398  7km7p.ir.ir.ir.meli-n12.info:8443 OK     0.171s   eu
-2026-08-16T15:16:34.503471  135.181.74.154:443             OK     0.174s   eu
-2026-08-16T15:16:34.503572  172.65.111.25:22               OK     0.009s   eu
-2026-08-16T15:16:34.503772  Fast.finecooking.info:443      OK     0.173s   eu
-2026-08-16T15:16:34.504556  opeenhostings.co.uk.:443       OK     0.181s   eu
-2026-08-16T15:16:34.504670  ma.hastim.co.uk:443            OK     0.169s   eu
-2026-08-16T15:16:34.505084  7h6ggfd7oo689azad.ir.meli-n13.info:8443 OK     0.177s   eu
-2026-08-16T15:16:34.505663  s4447n.ir.ir.ir.meli-n12.info:8443 OK     0.173s   eu
-2026-08-16T15:16:34.507126  mio.foltmeingop.co.uk:8880     OK     0.172s   eu
-2026-08-16T15:16:34.508049  for.you.goooalir.co.uk:8443    OK     0.178s   eu
-2026-08-16T15:16:34.508156  Lashboy.muzanesghy.co.uk:4455  OK     0.184s   eu
-2026-08-16T15:16:34.508363  bia-ba-ham.peachsoft.co.uk.:443 OK     0.177s   eu
-2026-08-16T15:16:34.509692  me.foltmeingop.co.uk:8880      OK     0.174s   eu
-2026-08-16T15:16:34.509785  2eyddd1.mmd1.meli-n12.info:8443 OK     0.19s    eu
-2026-08-16T15:16:34.510862  172.65.113.134:22              OK     0.008s   eu
-2026-08-16T15:16:34.513340  api.server2-5mk.info:443       OK     0.181s   eu
-2026-08-16T15:16:34.514427  uptime.speed-benz.co.uk:8443   OK     0.177s   eu
-2026-08-16T15:16:34.520942  mohandes.karshenasi.info:443   OK     0.192s   eu
-2026-08-16T15:16:34.526461  new7.mizanmizanesgh.co.uk:4455 OK     0.206s   eu
-2026-08-16T15:16:34.527720  New.nchnch.co.uk:4455          OK     0.201s   eu
-2026-08-16T15:16:34.530063  Strait-of-Hormuz.ir.jursdheks.info.:88 OK     0.209s   eu
-2026-08-16T15:16:34.533147  icon.davazdah.info:443         OK     0.199s   eu
-2026-08-16T15:16:34.535455  Speed-speed.co.uk.:443         OK     0.2s     eu
-2026-08-16T15:16:34.539611  new.canmycheshm.co.uk.:22      OK     0.054s   eu
-2026-08-16T15:16:34.540087  love.neverspy.online:443       OK     0.219s   eu
-2026-08-16T15:16:34.544346  severjadid.co.uk:4455          OK     0.221s   eu
-2026-08-16T15:16:34.544676  logs.jinxandjack.co.uk:443     OK     0.193s   eu
-2026-08-16T15:16:34.545752  iran-download.goaphrodite.co.uk.:443 OK     0.21s    eu
-2026-08-16T15:16:34.545971  abcd.server2-5mk.info:443      OK     0.153s   eu
-2026-08-16T15:16:34.547924  my-iran.dinocol.co.uk.:8443    OK     0.214s   eu
-2026-08-16T15:16:34.549275  turk.dasy2k1.co.uk.:8443       OK     0.216s   eu
-2026-08-16T15:16:34.550678  benz.mohearn.co.uk.:443        OK     0.229s   eu
-2026-08-16T15:16:34.551502  download.konstruktion.co.uk.:8443 OK     0.221s   eu
-2026-08-16T15:16:34.553982  can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.:25565 OK     0.057s   eu
-2026-08-16T15:16:34.555991  close.your.mouth.and.eyse.kiroftopmine.site.:22 OK     0.041s   eu
-2026-08-16T15:16:34.557655  www.darniod.ooo:80             OK     0.22s    eu
-2026-08-16T15:16:34.558284  iran.lv426.co.uk.:443          FAIL   -        eu
-2026-08-16T15:16:34.559810  its-bomb.itsnotrocket.co.uk.:8443 FAIL   -        eu
-2026-08-16T15:16:34.560775  kurd.tryzub-it.co.uk.:8443     OK     0.228s   eu
-2026-08-16T15:16:34.562611  lor.barhousefarm.co.uk.:8443   FAIL   -        eu
-2026-08-16T15:16:34.574236  Petros.172-68qavie.ir:22       OK     0.245s   eu
-2026-08-16T15:16:34.577251  yarypple.co.uk.:4455           OK     0.244s   eu
-2026-08-16T15:16:34.582279  prox.petros-px.ir.:25565       OK     0.248s   eu
-2026-08-16T15:16:34.600480  dark.canmycheshm.co.uk.:25565  OK     0.05s    eu
-2026-08-16T15:16:34.600665  www.weblog.co.im:443           OK     0.269s   eu
-2026-08-16T15:16:34.600812  www.Weblog.co.im:443           OK     0.278s   eu
-2026-08-16T15:16:34.601596  1.hide.newflamingodomain.co.uk:8443 OK     0.278s   eu
-2026-08-16T15:16:34.614882  94.184.32.22.ir-vlue3.ir:2020  OK     0.293s   eu
-2026-08-16T15:16:34.616663  Hub.whiteblox.org.:80          OK     0.283s   eu
-2026-08-16T15:16:34.617481  noise.hajikalashatelservieshamrahavalcandy.co.uk:80 OK     0.285s   eu
-2026-08-16T15:16:34.617492  craft.malavanann.co.uk:2083    OK     0.293s   eu
-2026-08-16T15:16:34.617999  bala.hastim.co.uk:443          OK     0.287s   eu
-2026-08-16T15:16:34.623961  server.nl-arvancloud.co.uk:443 OK     0.289s   eu
-2026-08-16T15:16:34.624980  benz.cras.co.im:144            OK     0.298s   eu
-2026-08-16T15:16:34.625489  digi.vafadari.co.uk:2096       OK     0.305s   eu
-2026-08-16T15:16:34.631082  sherek.mashgh.co.uk:144        OK     0.153s   eu
-2026-08-16T15:16:34.632191  ftp.jinxandjack.co.uk:443      OK     0.146s   eu
-2026-08-16T15:16:34.634525  webhook.vingardium.co.uk:443   OK     0.303s   eu
-2026-08-16T15:16:34.635875  webhook.vingardium.co.uk:443   OK     0.152s   eu
-2026-08-16T15:16:34.636907  webhook.vingardium.co.uk.:443  OK     0.303s   eu
-2026-08-16T15:16:34.640992  soh5.goooalir.co.uk:8443       OK     0.318s   eu
-2026-08-16T15:16:34.647642  dis.connectina.co.uk.:8443     OK     0.312s   eu
-2026-08-16T15:16:34.647676  irancell-mci-rightel-adsl.connectina.co.uk.:8443 OK     0.321s   eu
-2026-08-16T15:16:34.647950  new.lambforkebeb.co.uk:2096    OK     0.16s    eu
-2026-08-16T15:16:34.649823  lab.nowabst.net:853            OK     0.163s   eu
-2026-08-16T15:16:34.650410  fast.barhousefarm.co.uk.:443   OK     0.317s   eu
-2026-08-16T15:16:34.651689  f1.car-race.co.uk:443          OK     0.158s   eu
-2026-08-16T15:16:34.652145  AZADI.goooalir.co.uk:8443      OK     0.328s   eu
-2026-08-16T15:16:34.653979  65.108.123.76:443              OK     0.169s   eu
-2026-08-16T15:16:34.655547  195.254.165.253:25565          FAIL   -        eu
-2026-08-16T15:16:34.656283  run.golgoli2.co.uk:2053        OK     0.164s   eu
-2026-08-16T15:16:34.656665  91.98.137.162:443              OK     0.148s   eu
-2026-08-16T15:16:34.660752  premium.speed-benz.co.uk:8443  OK     0.173s   eu
-2026-08-16T15:16:34.660939  nab.goooalir.co.uk:8443        OK     0.163s   eu
-2026-08-16T15:16:34.667063  sioms.co.uk:25565              OK     0.165s   eu
-2026-08-16T15:16:34.667480  lux.lavazemi1.co.uk:2096       OK     0.163s   eu
-2026-08-16T15:16:34.668116  2duddd1.mmd1.meli-n12.info:8443 OK     0.171s   eu
-2026-08-16T15:16:34.669933  jadid.zhigool.co.uk:25565      OK     0.029s   eu
-2026-08-16T15:16:34.671331  look.foltmeingop.co.uk:8880    OK     0.166s   eu
-2026-08-16T15:16:34.671717  beer.crona-extra.co.uk:8443    OK     0.168s   eu
-2026-08-16T15:16:34.671883  65.21.234.20:443               OK     0.167s   eu
-2026-08-16T15:16:34.672021  bastani.mikham.co.uk:8443      OK     0.168s   eu
-2026-08-16T15:16:34.672433  7h66ggd7oo689azad.ir.meli-n13.info:8443 OK     0.17s    eu
-2026-08-16T15:16:34.674043  95.217.77.56:8443              OK     0.164s   eu
-2026-08-16T15:16:34.674590  s44447n.ir.ir.ir.meli-n12.info:8443 OK     0.175s   eu
-2026-08-16T15:16:34.676523  irogallery.golgoli1.co.uk:2096 OK     0.167s   eu
-2026-08-16T15:16:34.678834  hadaf.golgoli2.co.uk:2053      OK     0.165s   eu
-2026-08-16T15:16:34.680662  download.brettanderson.co.uk.:443 OK     0.355s   eu
-2026-08-16T15:16:34.681047  ftp.jinxandjack.co.uk:443      OK     0.148s   eu
-2026-08-16T15:16:34.687472  download.lv426.co.uk:443       OK     0.191s   eu
-2026-08-16T15:16:34.687920  3-33-3.ir:33                   OK     0.361s   eu
-2026-08-16T15:16:34.697936  rootssh2.co.uk.:4455           OK     0.198s   eu
-2026-08-16T15:16:34.698419  M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk:80 OK     0.15s    eu
-2026-08-16T15:16:34.699695  panel.hook--tehran.co.uk.:443  OK     0.211s   eu
-2026-08-16T15:16:34.702795  benz.cras.co.im:144            OK     0.163s   eu
-2026-08-16T15:16:34.704296  nevspy.corph.ru:443            OK     0.373s   eu
-2026-08-16T15:16:34.704440  168.119.142.41:443             OK     0.148s   eu
-2026-08-16T15:16:34.706241  dns.speed-benz.co.uk:8443      OK     0.18s    eu
-2026-08-16T15:16:34.706756  bezan-roo.connectina.co.uk.:443 OK     0.161s   eu
-2026-08-16T15:16:34.707528  Transfero.becbord.co.uk:7070   OK     0.163s   eu
-2026-08-16T15:16:34.714064  65.109.30.208:8443             OK     0.165s   eu
-2026-08-16T15:16:34.715974  starstg.neverspy.tech:443      OK     0.209s   ru
-2026-08-16T15:16:34.723641  89.34.230.97.orvenda.ir:2020   OK     0.398s   eu
-2026-08-16T15:16:34.724752  api.groundfloorsolutions.co.uk.:443 OK     0.217s   eu
-2026-08-16T15:16:34.727637  vasle.goooalir.co.uk:8443      OK     0.188s   eu
-2026-08-16T15:16:34.730535  sv2.just-money.co.uk:443       OK     0.156s   eu
-2026-08-16T15:16:34.731399  21.hide.newflamingodomain.co.uk:8443 OK     0.398s   eu
-2026-08-16T15:16:34.731778  iran.brettanderson.co.uk.:443  OK     0.227s   eu
-2026-08-16T15:16:34.733309  app.what-ever.co.uk:443        OK     0.151s   eu
-2026-08-16T15:16:34.744304  iran.fourie.co.uk.:443         OK     0.19s    eu
-2026-08-16T15:16:34.746778  download.lv426.co.uk.:443      OK     0.145s   eu
-2026-08-16T15:16:34.750757  www.royaclinic.co.uk:80        OK     0.173s   eu
-2026-08-16T15:16:34.753622  server2.server2-5mk.info:443   OK     0.139s   eu
-2026-08-16T15:16:34.756648  79.137.196.223:13443           OK     0.156s   eu
-2026-08-16T15:16:34.759985  abo-ali-sina.basalam.info:443  OK     0.202s   eu
-2026-08-16T15:16:34.760531  silver.ciaude.co.uk:2096       OK     0.294s   eu
-2026-08-16T15:16:34.762630  ai.golgoli1.co.uk:2096         OK     0.162s   eu
-2026-08-16T15:16:34.777001  iran.click-master.co.uk:443    OK     0.291s   eu
-2026-08-16T15:16:34.777594  hey.foltmeingop.co.uk:8880     OK     0.152s   eu
-2026-08-16T15:16:34.782371  webhook.what-ever.co.uk:443    OK     0.151s   eu
-2026-08-16T15:16:34.783340  93.113.230.242:443             OK     0.287s   eu
-2026-08-16T15:16:34.785292  mashti.just-money.co.uk:8880   OK     0.302s   eu
-2026-08-16T15:16:34.785504  new2.lambforkebeb.co.uk:2096   OK     0.297s   eu
-2026-08-16T15:16:34.786027  s447n.ir.ir.ir.meli-n12.info:8443 OK     0.185s   eu
-2026-08-16T15:16:34.789990  new.vafadari.co.uk:2096        OK     0.166s   eu
-2026-08-16T15:16:34.796808  ir.speed.finecooking.info:443  OK     0.161s   eu
-2026-08-16T15:16:34.801381  New1.ugtd8sxxcyt.co.uk:4455    OK     0.466s   eu
-2026-08-16T15:16:34.803315  www.gafe-arbal.ir:80           OK     0.242s   eu
-2026-08-16T15:16:34.806896  yeke-jahan.mohearn.co.uk.:443  OK     0.244s   eu
-2026-08-16T15:16:34.806905  s7n.ir.ir.ir.meli-n12.info:8443 OK     0.182s   eu
-2026-08-16T15:16:34.806910  kourosh.ir.meli-n13.info:8443  OK     0.189s   eu
-2026-08-16T15:16:34.810201  sorfezh.malfilk-voq.co.uk:443  OK     0.173s   eu
-2026-08-16T15:16:34.810313  sn.ir.ir.ir.meli-n12.info:8443 OK     0.163s   eu
-2026-08-16T15:16:34.811757  beest-sellerst.co.uk.:443      OK     0.195s   eu
-2026-08-16T15:16:34.812885  sub.iran-tehran.co.uk:443      OK     0.161s   eu
-2026-08-16T15:16:34.818967  please.workingproxy.xyz:443    OK     0.171s   eu
-2026-08-16T15:16:34.819761  at.foltmeingop.co.uk:8880      OK     0.17s    eu
-2026-08-16T15:16:34.821844  bg9999h.ir.meli-n13.info:8443  OK     0.19s    eu
-2026-08-16T15:16:34.823892  s47n.ir.ir.ir.meli-n12.info:8443 OK     0.176s   eu
-2026-08-16T15:16:34.824557  server3.server-space52.info:443 OK     0.19s    eu
-2026-08-16T15:16:34.825716  valla.chemidonam.co.uk:443     OK     0.174s   eu
-2026-08-16T15:16:34.830169  bale.foltmeingop.co.uk:8880    OK     0.295s   eu
-2026-08-16T15:16:34.830233  pesar.kocholo.co.uk.:443       OK     0.176s   eu
-2026-08-16T15:16:34.831513  rich.whiteblox.org.:80         OK     0.28s    eu
-2026-08-16T15:16:34.832935  you.foltmeingop.co.uk:8880     OK     0.303s   eu
-2026-08-16T15:16:34.836513  soheil.goooalir.co.uk:8443     OK     0.315s   eu
-2026-08-16T15:16:34.856771  webhook.jinxandjack.co.uk.:443 OK     0.329s   eu
-2026-08-16T15:16:34.860662  iran-download.shentaichiacademy.co.uk.:443 OK     0.21s    eu
-2026-08-16T15:16:34.868277  94.184.32.113.ir-vlue3.ir:2020 OK     0.372s   eu
-2026-08-16T15:16:34.883797  41.hide.newflamingodomain.co.uk:8443 OK     0.392s   eu
-2026-08-16T15:16:34.890183  iran.connectina.co.uk.:8443    OK     0.346s   eu
-2026-08-16T15:16:34.946216  bfesedv.uk.:4455               OK     0.625s   eu
-2026-08-16T15:16:35.051194  proxy.lodkirmm.ru:8443         OK     0.493s   ru
-2026-08-16T15:16:35.549208  kabir.ir.meli-n13.info:8443    OK     1.213s   eu
-2026-08-16T15:16:35.729734  sop.foodpatuy.ir:443           OK     1.408s   eu
-2026-08-16T15:16:36.074621  31.hide.newflamingodomain.co.uk:8443 OK     1.515s   eu
-2026-08-16T15:16:36.358090  team.fast--pro.co.uk.:443      FAIL   -        eu
-2026-08-16T15:16:36.383032  download-ir.itsnotrocket.co.uk.:8443 FAIL   -        eu
-2026-08-16T15:16:36.401778  195.254.165.250:25565          FAIL   -        eu
-2026-08-16T15:16:36.506039  195.254.165.249:25565          FAIL   -        eu
-2026-08-16T15:16:36.526755  download-ir.fourie.co.uk.:443  FAIL   -        eu
-2026-08-16T15:16:36.533780  https-cdn-ddns.itdeveloper.info.:88 FAIL   -        eu
-2026-08-16T15:16:36.551747  iran.barhousefarm.co.uk.:8443  FAIL   -        eu
-2026-08-16T15:16:36.572308  ad1.arixo.shop:443             FAIL   -        eu
-2026-08-16T15:16:36.619692  195.254.165.247:25565          FAIL   -        eu
-2026-08-16T15:16:36.650235  avavavavav.mohearn.co.uk.:443  FAIL   -        eu
-2026-08-16T15:16:36.652049  api2.kvakzon.top:2443          FAIL   -        eu
-2026-08-16T15:16:36.657722  195.254.165.251:25565          FAIL   -        eu
-2026-08-16T15:16:36.886595  cdn2.kvakzon.top:2443          FAIL   -        eu
-2026-08-16T15:16:38.046742  turbo-jet.balestic.ir.ghsisncbv.info.:88 OK     3.71s    eu
+2026-08-16T16:18:00.324490  172.65.113.134:22              OK     0.006s   eu
+2026-08-16T16:18:00.324515  forwar%D8%ACd-gree.server-space52.info:443 FAIL   -        eu
+2026-08-16T16:18:00.327982  172.65.105.80:25565            OK     0.006s   eu
+2026-08-16T16:18:00.343899  lor.barhousefarm.co.uk.:8443   FAIL   -        eu
+2026-08-16T16:18:00.359351  close.your.mouth.and.eyse.kiroftopmine.site.:22 OK     0.042s   eu
+2026-08-16T16:18:00.359805  sioms.co.uk:25565              OK     0.037s   eu
+2026-08-16T16:18:00.392441  its-bomb.itsnotrocket.co.uk.:8443 FAIL   -        eu
+2026-08-16T16:18:00.424616  194.120.230.37:443             OK     0.116s   eu
+2026-08-16T16:18:00.438233  f1.car-race.co.uk:443          OK     0.13s    eu
+2026-08-16T16:18:00.438669  www.gafe-arbal.ir:80           OK     0.13s    eu
+2026-08-16T16:18:00.443009  bala.hastim.co.uk:443          OK     0.138s   eu
+2026-08-16T16:18:00.443184  chai.mikham.co.uk:8443         OK     0.131s   eu
+2026-08-16T16:18:00.444416  idiot.foltmeingop.co.uk:8880   OK     0.138s   eu
+2026-08-16T16:18:00.445984  iran.click-master.co.uk:443    OK     0.136s   eu
+2026-08-16T16:18:00.447439  noone.lavazemi1.co.uk:2083     OK     0.135s   eu
+2026-08-16T16:18:00.449290  mashti.just-money.co.uk:8880   OK     0.135s   eu
+2026-08-16T16:18:00.449306  run.golgoli2.co.uk:2053        OK     0.139s   eu
+2026-08-16T16:18:00.452119  me.foltmeingop.co.uk:8880      OK     0.135s   eu
+2026-08-16T16:18:00.452716  download.lv426.co.uk.:443      OK     0.147s   eu
+2026-08-16T16:18:00.452839  bale.foltmeingop.co.uk:8880    OK     0.137s   eu
+2026-08-16T16:18:00.453133  uptime.speed-benz.co.uk:8443   OK     0.141s   eu
+2026-08-16T16:18:00.453408  dokhtar.kocholo.co.uk.:443     OK     0.144s   eu
+2026-08-16T16:18:00.453545  65.108.126.199:443             OK     0.14s    eu
+2026-08-16T16:18:00.454039  95.217.193.223:443             OK     0.138s   eu
+2026-08-16T16:18:00.454189  webhook.what-ever.co.uk:443    OK     0.147s   eu
+2026-08-16T16:18:00.455029  team.fast--pro.co.uk.:443      OK     0.146s   eu
+2026-08-16T16:18:00.457810  Transfero.becbord.co.uk:7070   OK     0.147s   eu
+2026-08-16T16:18:00.458961  95.217.77.56:8443              OK     0.139s   eu
+2026-08-16T16:18:00.460018  valla.chemidonam.co.uk:443     OK     0.144s   eu
+2026-08-16T16:18:00.462370  you.foltmeingop.co.uk:8880     OK     0.143s   eu
+2026-08-16T16:18:00.463956  65.108.123.76:443              OK     0.141s   eu
+2026-08-16T16:18:00.464513  please.workingproxy.xyz:443    OK     0.157s   eu
+2026-08-16T16:18:00.465301  craft.malavanann.co.uk:2083    OK     0.144s   eu
+2026-08-16T16:18:00.466519  ftp.jinxandjack.co.uk:443      OK     0.149s   eu
+2026-08-16T16:18:00.466535  ftp.jinxandjack.co.uk:443      OK     0.145s   eu
+2026-08-16T16:18:00.467352  dns.speed-benz.co.uk:8443      OK     0.145s   eu
+2026-08-16T16:18:00.469635  sherek.mashgh.co.uk:144        OK     0.15s    eu
+2026-08-16T16:18:00.471473  god-mode-on.peachsoft.co.uk.:443 OK     0.151s   eu
+2026-08-16T16:18:00.472539  webhook.vingardium.co.uk.:443  OK     0.167s   eu
+2026-08-16T16:18:00.473124  kurd.tryzub-it.co.uk.:8443     OK     0.167s   eu
+2026-08-16T16:18:00.473261  Lashboy.muzanesghy.co.uk:4455  OK     0.167s   eu
+2026-08-16T16:18:00.475259  webhook.vingardium.co.uk:443   OK     0.16s    eu
+2026-08-16T16:18:00.475287  rain.lavazemi2.co.uk:2053      OK     0.152s   eu
+2026-08-16T16:18:00.475420  webhook.jinxandjack.co.uk.:443 OK     0.168s   eu
+2026-08-16T16:18:00.475866  api.server2-5mk.info:443       OK     0.165s   eu
+2026-08-16T16:18:00.476011  Speed-speed.co.uk.:443         OK     0.171s   eu
+2026-08-16T16:18:00.476178  sn.ir.ir.ir.meli-n12.info:8443 OK     0.165s   eu
+2026-08-16T16:18:00.480180  api.groundfloorsolutions.co.uk.:443 OK     0.165s   eu
+2026-08-16T16:18:00.488478  AZADI.goooalir.co.uk:8443      OK     0.168s   eu
+2026-08-16T16:18:00.488636  lab.nowabst.net:853            OK     0.171s   eu
+2026-08-16T16:18:00.492519  bia-ba-ham.peachsoft.co.uk.:443 OK     0.183s   eu
+2026-08-16T16:18:00.494104  irancell-mci-rightel-adsl.connectina.co.uk.:8443 OK     0.174s   eu
+2026-08-16T16:18:00.496680  Kingdom-persia.ir.hey-gardash.info.:1080 OK     0.172s   eu
+2026-08-16T16:18:00.496974  starstg.neverspy.tech:443      OK     0.174s   ru
+2026-08-16T16:18:00.499304  logs.jinxandjack.co.uk:443     OK     0.171s   eu
+2026-08-16T16:18:00.499679  fast.barhousefarm.co.uk.:443   OK     0.189s   eu
+2026-08-16T16:18:00.502451  s7n.ir.ir.ir.meli-n12.info:8443 OK     0.184s   eu
+2026-08-16T16:18:00.503896  sub.iran-tehran.co.uk:443      OK     0.181s   eu
+2026-08-16T16:18:00.506366  kourosh.ir.meli-n13.info:8443  OK     0.196s   eu
+2026-08-16T16:18:00.506605  new.canmycheshm.co.uk.:22      OK     0.039s   eu
+2026-08-16T16:18:00.507411  New1.ugtd8sxxcyt.co.uk:4455    OK     0.197s   eu
+2026-08-16T16:18:00.507534  new7.mizanmizanesgh.co.uk:4455 OK     0.19s    eu
+2026-08-16T16:18:00.509497  kabir.ir.meli-n13.info:8443    OK     0.196s   eu
+2026-08-16T16:18:00.516489  bg69h.ir.meli-n13.info:8443    OK     0.198s   eu
+2026-08-16T16:18:00.516509  iran.vanitydomain.co.uk.:8443  FAIL   -        eu
+2026-08-16T16:18:00.516903  s447n.ir.ir.ir.meli-n12.info:8443 OK     0.198s   eu
+2026-08-16T16:18:00.517098  can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.:25565 OK     0.041s   eu
+2026-08-16T16:18:00.520283  iran.connectina.co.uk.:8443    OK     0.176s   eu
+2026-08-16T16:18:00.528993  31.hide.newflamingodomain.co.uk:8443 OK     0.204s   eu
+2026-08-16T16:18:00.535344  1.hide.newflamingodomain.co.uk:8443 OK     0.22s    eu
+2026-08-16T16:18:00.535459  love.neverspy.online:443       OK     0.176s   eu
+2026-08-16T16:18:00.537024  prox.petros-px.ir.:25565       OK     0.221s   eu
+2026-08-16T16:18:00.544814  yarypple.co.uk.:4455           OK     0.225s   eu
+2026-08-16T16:18:00.551494  mohandes.karshenasi.info:443   OK     0.245s   eu
+2026-08-16T16:18:00.552466  41.hide.newflamingodomain.co.uk:8443 OK     0.234s   eu
+2026-08-16T16:18:00.554427  www.weblog.co.im:443           OK     0.244s   eu
+2026-08-16T16:18:00.555458  www.Weblog.co.im:443           OK     0.24s    eu
+2026-08-16T16:18:00.559003  www.darniod.ooo:80             OK     0.134s   eu
+2026-08-16T16:18:00.560583  turbo-jet.balestic.ir.ghsisncbv.info.:88 OK     0.239s   eu
+2026-08-16T16:18:00.562757  195.254.165.252:25565          FAIL   -        eu
+2026-08-16T16:18:00.564899  91.98.137.162:443              OK     0.116s   eu
+2026-08-16T16:18:00.565062  172.65.122.51:25565            OK     0.006s   eu
+2026-08-16T16:18:00.567202  udymau.server-space52.info:443 OK     0.25s    eu
+2026-08-16T16:18:00.567816  ma.hastim.co.uk:443            OK     0.125s   eu
+2026-08-16T16:18:00.572012  hey.foltmeingop.co.uk:8880     OK     0.134s   eu
+2026-08-16T16:18:00.575259  download.lv426.co.uk:443       OK     0.121s   eu
+2026-08-16T16:18:00.577384  168.119.142.41:443             OK     0.125s   eu
+2026-08-16T16:18:00.578893  box.lavazemi5.co.uk:2053       OK     0.134s   eu
+2026-08-16T16:18:00.579413  mio.foltmeingop.co.uk:8880     OK     0.12s    eu
+2026-08-16T16:18:00.580209  sub.iran-tehran.co.uk:443      OK     0.141s   eu
+2026-08-16T16:18:00.582382  for--you.server2-5mk.info:443  OK     0.266s   eu
+2026-08-16T16:18:00.583654  s4447n.ir.ir.ir.meli-n12.info:8443 OK     0.272s   eu
+2026-08-16T16:18:00.585229  benz.cras.co.im:144            OK     0.274s   eu
+2026-08-16T16:18:00.586223  2duddd1.mmd1.meli-n12.info:8443 OK     0.278s   eu
+2026-08-16T16:18:00.587870  bg9999h.ir.meli-n13.info:8443  OK     0.267s   eu
+2026-08-16T16:18:00.589647  sub.iran-tehran.co.uk.:443     OK     0.142s   eu
+2026-08-16T16:18:00.594195  benz.cras.co.im:144            OK     0.141s   eu
+2026-08-16T16:18:00.594595  cloud.click-master.co.uk:8443  OK     0.286s   eu
+2026-08-16T16:18:00.596030  premium.speed-benz.co.uk:8443  OK     0.15s    eu
+2026-08-16T16:18:00.596868  silver.ciaude.co.uk:2096       OK     0.143s   eu
+2026-08-16T16:18:00.597976  ir.speed.finecooking.info:443  OK     0.143s   eu
+2026-08-16T16:18:00.599112  lux.lavazemi1.co.uk:2096       OK     0.126s   eu
+2026-08-16T16:18:00.599229  icon.davazdah.info:443         OK     0.277s   eu
+2026-08-16T16:18:00.602239  beer.crona-extra.co.uk:8443    OK     0.29s    eu
+2026-08-16T16:18:00.603029  book.malavanann.co.uk:2096     OK     0.296s   eu
+2026-08-16T16:18:00.603879  172.65.111.25:22               OK     0.006s   eu
+2026-08-16T16:18:00.605993  s47n.ir.ir.ir.meli-n12.info:8443 OK     0.298s   eu
+2026-08-16T16:18:00.606157  M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk:80 OK     0.135s   eu
+2026-08-16T16:18:00.606369  65.21.234.20:443               OK     0.133s   eu
+2026-08-16T16:18:00.607312  qadim.zhigool.co.uk:22         OK     0.028s   eu
+2026-08-16T16:18:00.607467  noron.talebi.co.uk:2096        OK     0.138s   eu
+2026-08-16T16:18:00.608466  app.what-ever.co.uk.:443       OK     0.133s   eu
+2026-08-16T16:18:00.610808  gold.lavazemi4.co.uk:2096      OK     0.298s   eu
+2026-08-16T16:18:00.611525  sv2.just-money.co.uk:443       OK     0.138s   eu
+2026-08-16T16:18:00.611821  94.184.32.113.ir-vlue3.ir:2020 OK     0.304s   eu
+2026-08-16T16:18:00.611838  app.what-ever.co.uk:443        OK     0.307s   eu
+2026-08-16T16:18:00.613540  135.181.74.154:443             OK     0.147s   eu
+2026-08-16T16:18:00.617294  flux.lavazemi5.co.uk:2096      OK     0.142s   eu
+2026-08-16T16:18:00.617982  dark.canmycheshm.co.uk.:25565  OK     0.041s   eu
+2026-08-16T16:18:00.620225  abo-ali-sina.basalam.info:443  OK     0.302s   eu
+2026-08-16T16:18:00.621056  s44447n.ir.ir.ir.meli-n12.info:8443 OK     0.303s   eu
+2026-08-16T16:18:00.624313  79.137.196.223:13443           OK     0.125s   eu
+2026-08-16T16:18:00.625064  ftp.jinxandjack.co.uk.:443     OK     0.115s   eu
+2026-08-16T16:18:00.625133  star.talebi.co.uk:2096         OK     0.305s   eu
+2026-08-16T16:18:00.625393  94.184.32.22.ir-vlue3.ir:2020  OK     0.316s   eu
+2026-08-16T16:18:00.630404  gallery.talebi.co.uk:2096      OK     0.138s   eu
+2026-08-16T16:18:00.634743  soh5.goooalir.co.uk:8443       OK     0.312s   eu
+2026-08-16T16:18:00.636911  198.199.120.58:443             OK     0.034s   eu
+2026-08-16T16:18:00.637650  bezan-roo.connectina.co.uk.:443 OK     0.184s   eu
+2026-08-16T16:18:00.637979  bastani.mikham.co.uk:8443      OK     0.135s   eu
+2026-08-16T16:18:00.641192  download.konstruktion.co.uk.:8443 OK     0.176s   eu
+2026-08-16T16:18:00.644899  93.113.230.242:443             OK     0.196s   eu
+2026-08-16T16:18:00.646011  panel.hook--tehran.co.uk.:443  OK     0.166s   eu
+2026-08-16T16:18:00.646094  beest-sellerst.co.uk.:443      OK     0.331s   eu
+2026-08-16T16:18:00.647422  server3.server-space52.info:443 OK     0.185s   eu
+2026-08-16T16:18:00.649696  soheil.goooalir.co.uk:8443     OK     0.153s   eu
+2026-08-16T16:18:00.650914  webhook.what-ever.co.uk:443    OK     0.115s   eu
+2026-08-16T16:18:00.651326  65.21.227.204:443              OK     0.144s   eu
+2026-08-16T16:18:00.652566  webhook.what-ever.co.uk.:443   OK     0.115s   eu
+2026-08-16T16:18:00.653139  65.109.30.208:8443             OK     0.146s   eu
+2026-08-16T16:18:00.653783  jadid.zhigool.co.uk:25565      OK     0.187s   eu
+2026-08-16T16:18:00.661032  new2.lambforkebeb.co.uk:2096   OK     0.144s   eu
+2026-08-16T16:18:00.664845  https-cdn-ddns.itdeveloper.info.:88 FAIL   -        eu
+2026-08-16T16:18:00.666086  Hub.whiteblox.org.:80          OK     0.178s   eu
+2026-08-16T16:18:00.671457  at.foltmeingop.co.uk:8880      OK     0.142s   eu
+2026-08-16T16:18:00.671590  kjjm7p.ir.ir.ir.meli-n12.info:8443 OK     0.155s   eu
+2026-08-16T16:18:00.676487  new.vafadari.co.uk:2096        OK     0.141s   eu
+2026-08-16T16:18:00.689580  Strait-of-Hormuz.ir.jursdheks.info.:88 OK     0.235s   eu
+2026-08-16T16:18:00.697059  yeke-jahan.mohearn.co.uk.:443  OK     0.203s   eu
+2026-08-16T16:18:00.702188  rich.whiteblox.org.:80         OK     0.157s   eu
+2026-08-16T16:18:00.702837  hadaf.golgoli2.co.uk:2053      OK     0.15s    eu
+2026-08-16T16:18:00.703514  sherek.mashgh.co.uk:144        OK     0.117s   eu
+2026-08-16T16:18:00.707145  nevspy.corph.ru:443            OK     0.201s   eu
+2026-08-16T16:18:00.710233  iran.brettanderson.co.uk.:443  OK     0.206s   eu
+2026-08-16T16:18:00.711042  89.34.230.97.orvenda.ir:2020   OK     0.352s   eu
+2026-08-16T16:18:00.711835  new.lambforkebeb.co.uk:2096    OK     0.147s   eu
+2026-08-16T16:18:00.713623  fresh.t-proxy.info.:25565      OK     0.151s   eu
+2026-08-16T16:18:00.713725  www.royaclinic.co.uk:80        OK     0.142s   eu
+2026-08-16T16:18:00.723705  195.254.165.253:25565          FAIL   -        eu
+2026-08-16T16:18:00.724602  ai.golgoli1.co.uk:2096         OK     0.142s   eu
+2026-08-16T16:18:00.725125  opeenhostings.co.uk.:443       OK     0.17s    eu
+2026-08-16T16:18:00.727067  webhook.vingardium.co.uk:443   OK     0.125s   eu
+2026-08-16T16:18:00.727379  iran.fourie.co.uk.:443         OK     0.207s   eu
+2026-08-16T16:18:00.728828  ad1.arixo.shop:443             OK     0.177s   eu
+2026-08-16T16:18:00.729835  Fast.finecooking.info:443      OK     0.254s   eu
+2026-08-16T16:18:00.731002  irogallery.golgoli1.co.uk:2096 OK     0.146s   eu
+2026-08-16T16:18:00.732121  Petros.172-68qavie.ir:22       OK     0.133s   eu
+2026-08-16T16:18:00.732250  download.brettanderson.co.uk.:443 OK     0.149s   eu
+2026-08-16T16:18:00.735077  server2.server2-5mk.info:443   OK     0.141s   eu
+2026-08-16T16:18:00.738781  noise.hajikalashatelservieshamrahavalcandy.co.uk:80 OK     0.286s   eu
+2026-08-16T16:18:00.744254  sorfezh.malfilk-voq.co.uk:443  OK     0.148s   eu
+2026-08-16T16:18:00.746176  for.you.goooalir.co.uk:8443    OK     0.152s   eu
+2026-08-16T16:18:00.746490  7h66ggd7oo689azad.ir.meli-n13.info:8443 OK     0.181s   eu
+2026-08-16T16:18:00.753293  7h6ggfd7oo689azad.ir.meli-n13.info:8443 OK     0.163s   eu
+2026-08-16T16:18:00.753305  digi.vafadari.co.uk:2096       OK     0.147s   eu
+2026-08-16T16:18:00.758621  2eyddd1.mmd1.meli-n12.info:8443 OK     0.282s   eu
+2026-08-16T16:18:00.758821  look.foltmeingop.co.uk:8880    OK     0.295s   eu
+2026-08-16T16:18:00.768412  pesar.kocholo.co.uk.:443       OK     0.304s   eu
+2026-08-16T16:18:00.777238  iran-download.shentaichiacademy.co.uk.:443 OK     0.173s   eu
+2026-08-16T16:18:00.778052  severjadid.co.uk:4455          OK     0.199s   eu
+2026-08-16T16:18:00.802915  iran.lv426.co.uk.:443          FAIL   -        eu
+2026-08-16T16:18:00.810219  7km7p.ir.ir.ir.meli-n12.info:8443 OK     0.293s   eu
+2026-08-16T16:18:00.815766  benz.mohearn.co.uk.:443        OK     0.34s    eu
+2026-08-16T16:18:00.818501  rootssh2.co.uk.:4455           OK     0.513s   eu
+2026-08-16T16:18:00.826444  abcd.server2-5mk.info:443      OK     0.251s   eu
+2026-08-16T16:18:00.836110  my-iran.dinocol.co.uk.:8443    OK     0.337s   eu
+2026-08-16T16:18:00.861049  server.nl-arvancloud.co.uk:443 OK     0.3s     eu
+2026-08-16T16:18:00.867341  iran-download.goaphrodite.co.uk.:443 OK     0.313s   eu
+2026-08-16T16:18:00.880807  dis.connectina.co.uk.:8443     OK     0.364s   eu
+2026-08-16T16:18:00.891212  turk.dasy2k1.co.uk.:8443       OK     0.311s   eu
+2026-08-16T16:18:01.015410  proxy.lodkirmm.ru:8443         OK     0.519s   ru
+2026-08-16T16:18:01.081635  New.nchnch.co.uk:4455          OK     0.514s   eu
+2026-08-16T16:18:01.291582  bfesedv.uk.:4455               OK     0.724s   eu
+2026-08-16T16:18:01.475087  vasle.goooalir.co.uk:8443      OK     1.156s   eu
+2026-08-16T16:18:01.566505  21.hide.newflamingodomain.co.uk:8443 OK     1.26s    eu
+2026-08-16T16:18:01.597690  sop.foodpatuy.ir:443           OK     1.278s   eu
+2026-08-16T16:18:01.735784  nab.goooalir.co.uk:8443        OK     1.148s   eu
+2026-08-16T16:18:02.313484  195.254.165.250:25565          FAIL   -        eu
+2026-08-16T16:18:02.345311  download-ir.fourie.co.uk.:443  FAIL   -        eu
+2026-08-16T16:18:02.394739  195.254.165.249:25565          FAIL   -        eu
+2026-08-16T16:18:02.408027  iran.barhousefarm.co.uk.:8443  FAIL   -        eu
+2026-08-16T16:18:02.475744  avavavavav.mohearn.co.uk.:443  FAIL   -        eu
+2026-08-16T16:18:02.508863  195.254.165.251:25565          FAIL   -        eu
+2026-08-16T16:18:02.516378  download-ir.itsnotrocket.co.uk.:8443 FAIL   -        eu
+2026-08-16T16:18:02.518448  3-33-3.ir:33                   FAIL   -        eu
+2026-08-16T16:18:02.601404  195.254.165.247:25565          FAIL   -        eu
+2026-08-16T16:18:02.620457  cdn2.kvakzon.top:2443          FAIL   -        eu
+2026-08-16T16:18:02.638186  api2.kvakzon.top:2443          FAIL   -        eu
 ------------------------------------------------------------
 
 Top 20 fastest proxies:
-  172.65.113.134:22 | ping=0.008s | eu | 
-  172.65.105.80:25565 | ping=0.009s | eu | dbiz ]cdn.yektanet.com
-  172.65.111.25:22 | ping=0.009s | eu | 
-  172.65.122.51:25565 | ping=0.01s | eu | dbiz ]cdn.yektanet.com
-  fresh.t-proxy.info.:25565 | ping=0.029s | eu | dbiz ]cdn.yektanet.com
-  jadid.zhigool.co.uk:25565 | ping=0.029s | eu | 
-  close.your.mouth.and.eyse.kiroftopmine.site.:22 | ping=0.041s | eu | 
-  dark.canmycheshm.co.uk.:25565 | ping=0.05s | eu | dbiz ]cdn.yektanet.com
-  new.canmycheshm.co.uk.:22 | ping=0.054s | eu | 
-  can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.:25565 | ping=0.057s | eu | dbiz ]cdn.yektanet.com
-  198.199.120.58:443 | ping=0.069s | eu | 
-  194.120.230.37:443 | ping=0.139s | eu | 
-  server2.server2-5mk.info:443 | ping=0.139s | eu | 
-  download.lv426.co.uk.:443 | ping=0.145s | eu | /web.bale.ai
-  ftp.jinxandjack.co.uk:443 | ping=0.146s | eu | 
-  91.98.137.162:443 | ping=0.148s | eu | 
-  168.119.142.41:443 | ping=0.148s | eu | 
-  sub.iran-tehran.co.uk.:443 | ping=0.15s | eu | 
-  M.o.h.s.e.n.hajikalashatelservieshamrahavalcandy.co.uk:80 | ping=0.15s | eu | 
-  webhook.what-ever.co.uk:443 | ping=0.151s | eu | 
+  172.65.113.134:22 | ping=0.006s | eu | 
+  172.65.105.80:25565 | ping=0.006s | eu | dbiz ]cdn.yektanet.com
+  172.65.122.51:25565 | ping=0.006s | eu | dbiz ]cdn.yektanet.com
+  172.65.111.25:22 | ping=0.006s | eu | 
+  qadim.zhigool.co.uk:22 | ping=0.028s | eu | 
+  198.199.120.58:443 | ping=0.034s | eu | 
+  sioms.co.uk:25565 | ping=0.037s | eu | dbiz ]cdn.yektanet.com
+  new.canmycheshm.co.uk.:22 | ping=0.039s | eu | 
+  can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.:25565 | ping=0.041s | eu | dbiz ]cdn.yektanet.com
+  dark.canmycheshm.co.uk.:25565 | ping=0.041s | eu | dbiz ]cdn.yektanet.com
+  close.your.mouth.and.eyse.kiroftopmine.site.:22 | ping=0.042s | eu | 
+  webhook.what-ever.co.uk:443 | ping=0.115s | eu | /web.bale.ai
+  ftp.jinxandjack.co.uk.:443 | ping=0.115s | eu | /web.bale.ai
+  webhook.what-ever.co.uk.:443 | ping=0.115s | eu | /web.bale.ai
+  194.120.230.37:443 | ping=0.116s | eu | 
+  91.98.137.162:443 | ping=0.116s | eu | 
+  sherek.mashgh.co.uk:144 | ping=0.117s | eu | 
+  mio.foltmeingop.co.uk:8880 | ping=0.12s | eu | 
+  download.lv426.co.uk:443 | ping=0.121s | eu | /web.bale.ai
+  webhook.vingardium.co.uk:443 | ping=0.125s | eu | /web.bale.ai
